@@ -1,2 +1,2 @@
 # SocketNodeJS
-Socket usando nodeJS 
+Socket de rede feito usando nodeJS 
